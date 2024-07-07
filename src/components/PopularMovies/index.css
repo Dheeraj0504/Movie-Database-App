@@ -1,0 +1,10 @@
+.loader-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.movies-list-container {
+  list-style-type: none;
+  max-width: 100%;
+}
